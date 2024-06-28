@@ -23,8 +23,8 @@ Millete Sallayan Türeme
 
 
 
- <img width="450" alt="image" src="https://i.imgur.com/tf4Ggbe.jpeg">
- <img width="450" alt="image" src="https://i.imgur.com/bAR0PLw.jpeg">
- <img width="450" alt="image" src="https://i.imgur.com/TdgBLAn.png">
- <img width="450" alt="image" src="https://i.imgur.com/8vBnyYn.jpeg">
- <img width="450" alt="image" src="https://i.imgur.com/2YaVCHW.jpeg">
+ <img  alt="image" src="https://i.imgur.com/tf4Ggbe.jpeg">
+ <img  alt="image" src="https://i.imgur.com/bAR0PLw.jpeg">
+ <img  alt="image" src="https://i.imgur.com/TdgBLAn.png">
+ <img  alt="image" src="https://i.imgur.com/8vBnyYn.jpeg">
+ <img  alt="image" src="https://i.imgur.com/2YaVCHW.jpeg">
