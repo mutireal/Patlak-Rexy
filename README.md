@@ -11,6 +11,8 @@ Millete Sallayan Türeme
 
  [![Discord](https://lanyard.cnrad.dev/api/1179280051443867728)](https://discord.com/users/1179280051443867728)
 
+ [![Discord](https://lanyard.cnrad.dev/api/1198674796255395941)](https://discord.com/users/1198674796255395941)
+
 
 
 
